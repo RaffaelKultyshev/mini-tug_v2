@@ -1,4 +1,9 @@
+fastapi
+uvicorn[standard]
 pandas
 numpy
-matplotlib
-faker
+streamlit
+altair
+google-cloud-documentai
+google-auth
+python-multipart
