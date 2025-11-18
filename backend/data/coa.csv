@@ -1,0 +1,12 @@
+account_id,name,type
+1000,Cash,asset
+1100,Accounts Receivable,asset
+2000,Accounts Payable,liability
+4000,Revenue,revenue
+5000,Cloud Hosting,expense
+5010,CRM/Software,expense
+5020,Internal Tools,expense
+5030,Design Software,expense
+5040,Meetings/Comms,expense
+5050,Ads/Marketing,expense
+5200,Payment Processing Fees,expense

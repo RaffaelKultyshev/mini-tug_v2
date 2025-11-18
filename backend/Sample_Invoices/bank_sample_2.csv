@@ -1,0 +1,8 @@
+date,amount,direction,entity,partner,memo
+2025-11-05,3500.0,in,TUG_NL,Stripe Payments Europe,November SaaS subscriptions payout
+2025-11-07,4200.5,in,TUG_NL,Adyen,Card payments batch 2025-11-06
+2025-11-10,1999.99,in,TUG_NL,Mollie,iDEAL payments 2025-11-09
+2025-11-15,-7000.0,out,TUG_NL,Dynamic Intelligence B.V.,Part payment INV-2025-010
+2025-11-25,-5100.0,out,TUG_NL,Dynamic Intelligence B.V.,Final payment INV-2025-010
+2025-11-18,-350.5,out,TUG_NL,AWS EMEA SARL,Cloud compute October 2025
+2025-11-20,-129.0,out,TUG_NL,Notion Labs Inc.,Notion Enterprise seats

@@ -1,0 +1,61 @@
+entity,type,partner,amount,date
+TUG_NL,revenue,Customer_09 Corp,3535.24,2025-07-16
+TUG_NL,expense,Stripe,2277.34,2025-06-27
+TUG_US,revenue,Customer_02 Corp,3429.2,2025-07-24
+TUG_UK,expense,Zoom,552.39,2025-09-15
+TUG_UK,revenue,Customer_03 Corp,2327.25,2025-10-06
+TUG_NL,expense,Salesforce,6894.32,2025-10-10
+TUG_UK,expense,Zoom,4209.67,2025-06-01
+TUG_NL,expense,Notion,3047.45,2025-08-13
+TUG_NL,expense,Slack,6709.94,2025-08-24
+TUG_US,revenue,Customer_05 Corp,4349.36,2025-10-14
+TUG_UK,revenue,Customer_01 Corp,7967.32,2025-06-12
+TUG_UK,revenue,Customer_04 Corp,6523.67,2025-06-13
+TUG_UK,expense,Figma,2760.38,2025-08-03
+TUG_UK,revenue,Customer_02 Corp,2243.52,2025-10-15
+TUG_US,revenue,Customer_09 Corp,7386.98,2025-08-09
+TUG_NL,expense,AWS,4138.95,2025-10-03
+TUG_US,revenue,Customer_06 Corp,3541.68,2025-09-11
+TUG_UK,expense,Notion,5060.47,2025-05-18
+TUG_US,revenue,Customer_01 Corp,2182.79,2025-10-03
+TUG_UK,expense,AWS,3409.78,2025-08-01
+TUG_NL,revenue,Customer_09 Corp,3260.48,2025-09-06
+TUG_NL,expense,LinkedIn Ads,878.22,2025-07-13
+TUG_NL,revenue,Customer_01 Corp,7701.58,2025-08-24
+TUG_US,expense,Slack,5637.45,2025-06-22
+TUG_UK,revenue,Customer_06 Corp,4474.09,2025-05-24
+TUG_UK,expense,Zoom,4672.52,2025-07-20
+TUG_NL,expense,Stripe,4767.89,2025-08-19
+TUG_UK,revenue,Customer_02 Corp,6712.56,2025-11-09
+TUG_NL,revenue,Customer_07 Corp,4074.23,2025-08-30
+TUG_NL,revenue,Customer_05 Corp,7422.83,2025-07-15
+TUG_US,revenue,Customer_10 Corp,7504.0,2025-09-11
+TUG_US,revenue,Customer_08 Corp,6368.1,2025-07-17
+TUG_US,expense,LinkedIn Ads,3954.38,2025-08-17
+TUG_NL,expense,LinkedIn Ads,4095.48,2025-09-04
+TUG_NL,revenue,Customer_04 Corp,1509.82,2025-05-27
+TUG_UK,expense,HubSpot,1628.77,2025-08-30
+TUG_UK,revenue,Customer_02 Corp,7298.36,2025-11-09
+TUG_NL,expense,Zoom,692.47,2025-06-07
+TUG_UK,expense,LinkedIn Ads,2835.56,2025-11-12
+TUG_UK,expense,HubSpot,7380.7,2025-05-29
+TUG_US,revenue,Customer_03 Corp,6121.92,2025-11-05
+TUG_UK,expense,AWS,5041.25,2025-06-22
+TUG_UK,expense,Slack,1867.32,2025-10-12
+TUG_NL,revenue,Customer_06 Corp,3964.84,2025-05-22
+TUG_UK,revenue,Customer_03 Corp,5175.66,2025-10-30
+TUG_NL,expense,Zoom,1829.46,2025-10-19
+TUG_NL,revenue,Customer_03 Corp,2656.04,2025-05-25
+TUG_NL,revenue,Customer_04 Corp,7562.27,2025-05-18
+TUG_UK,expense,Figma,2329.88,2025-07-11
+TUG_US,revenue,Customer_10 Corp,6110.29,2025-09-22
+TUG_US,expense,Notion,1432.5,2025-06-30
+TUG_NL,revenue,Customer_10 Corp,2838.49,2025-09-27
+TUG_NL,expense,AWS,7464.92,2025-08-29
+TUG_US,revenue,Customer_05 Corp,279.53,2025-05-31
+TUG_NL,expense,AWS,7137.33,2025-07-20
+TUG_US,revenue,Customer_03 Corp,2747.3,2025-09-03
+TUG_UK,expense,AWS,1492.55,2025-07-13
+TUG_UK,expense,LinkedIn Ads,7519.74,2025-07-08
+TUG_NL,expense,Google Cloud,2053.73,2025-08-20
+TUG_UK,revenue,Customer_04 Corp,6128.48,2025-08-06
